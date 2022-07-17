@@ -36,5 +36,35 @@
 
 `vim api.js`
 
+`cd Todo`
+
+`npm install mongoose`
+
+`mkdir models`
+
+`cd models`
+
+`touch todo.js`
+
+`vim todo.js`
+
+`cd routes`
+
+`vim api.js`
+
+`cd Todo`
+
+`touch .env`
+
+`vi .env`
+
+`vim index.js`
+
+`node index.js `
+
+![DBsuccessful](./images/DBconnected.png)
+
+
+
 
 
